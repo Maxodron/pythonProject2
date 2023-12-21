@@ -1,6 +1,6 @@
 import random
 
-n = input('Введите количество камней: ')
+n = input('Введите количествajlsk;dkdlscklnо камней: ')
 try:
     n = int(n)
     if n in range(4, 31):
